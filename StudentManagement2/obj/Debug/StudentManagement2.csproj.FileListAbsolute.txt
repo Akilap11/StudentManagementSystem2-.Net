@@ -1,0 +1,23 @@
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\bin\Debug\StudentManagement2.exe.config
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\bin\Debug\StudentManagement2.exe
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\bin\Debug\StudentManagement2.pdb
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.csproj.AssemblyReference.cache
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.Form1.resources
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.Properties.Resources.resources
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.csproj.GenerateResource.cache
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.csproj.CoreCompileInputs.cache
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.exe
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.pdb
+C:\Users\SiCK_BoY\source\repos\StudentManagement2\StudentManagement2\obj\Debug\StudentManagement2.ManageStudents.resources
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\bin\Debug\StudentManagement2.exe.config
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\bin\Debug\StudentManagement2.exe
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\bin\Debug\StudentManagement2.pdb
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.csproj.AssemblyReference.cache
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.Form1.resources
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.ManageStudents.resources
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.Properties.Resources.resources
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.csproj.GenerateResource.cache
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.csproj.CoreCompileInputs.cache
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.exe
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.pdb
+E:\Work\My Individual Projects\StudentManagementSystem2-.net\StudentManagement2\obj\Debug\StudentManagement2.ManageStudentsGridView.resources
